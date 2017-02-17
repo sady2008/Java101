@@ -1,7 +1,8 @@
 package java101;
 import java.math.*;
 
-public class Circle2D {
+public class Circle2D 
+extends java101.SimpleGeometricObject{
 	private double x,y,radius;
 	
 	
